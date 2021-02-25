@@ -68,17 +68,17 @@ Here an example for the gloss "casalinga"
   
 Here you can find a brief description for each property:
   
-  category: indicates the domain to which each gloss belongs, according to the categorisation adopted in the reference syllabus
-  text: contains a simplified definition of the gloss
-  grammar: describes the grammatical attributes of the gloss (Division into syllables, Part of Speech, number and gender + corresponding to the masculine singular)
-  inflections : inflecions of the gloss (singular masculine, singular feminine, plural masculine, plural feminine)
-  examples: short sentences presenting the gloss in a meaningful context
-  image: pointer to the file (if any) contained in the image database
-  video: pointer to the file (if any) contained in the video database
-  gif:   image: pointer to the file (if any) contained in the gif database
-  group: indicates the semantic field to which the gloss belongs indicates the semantic field to which the gloss belongs (classification formalised by the glossary contributors)
-  simplified: Boolean value indicating whether the simplified definition (text) was crowdsourced by teachers (true) or not (false).
-  level: Indicates at which of the four stages, indicated by the signing syllabus, the student is expected to learn the gloss term. 
+  - category: indicates the domain to which each gloss belongs, according to the categorisation adopted in the reference syllabus
+  - text: contains a simplified definition of the gloss
+  - grammar: describes the grammatical attributes of the gloss (Division into syllables, Part of Speech, number and gender + corresponding to the masculine singular)
+  - inflections : inflecions of the gloss (singular masculine, singular feminine, plural masculine, plural feminine)
+  - examples: short sentences presenting the gloss in a meaningful context
+  - image: pointer to the file (if any) contained in the image database
+  - video: pointer to the file (if any) contained in the video database
+  - gif: pointer to the file (if any) contained in the gif database
+  - group: indicates the semantic field to which the gloss belongs indicates the semantic field to which the gloss belongs (classification formalised by the glossary contributors)
+  - simplified: Boolean value indicating whether the simplified definition (text) was crowdsourced by teachers (true) or not (false).
+  - level: Indicates at which of the four stages, indicated by the signing syllabus, the student is expected to learn the gloss term. 
   
   
 # Notes
