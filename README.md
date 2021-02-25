@@ -42,7 +42,7 @@ The words are organized in the tables according to the 4 profiles /stages provid
 # Data structure
 The glossary is a .JSON file where each NAME corresponds to a gloss and each gloss's VALUE is an object itself.
 
-Evry value has the same properties, that correspond to the gloss metadata.
+Every value has the same properties, that correspond to the gloss metadata.
 
 Here an example for the gloss "casalinga"
 
