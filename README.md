@@ -2,6 +2,7 @@
 The CPIAbot glossary is a collection of simplified terms and definitions of high-frequency words that can be consulted through the CPIAbot chatbot.
 The idea of developing a simplified interactive glossary, aimed at learners with poor language skills in Italian, stems from the lack of similar resources open-source or available online free of charge.
 
+
 # Target
 The reference target group of the glossary is made up of learners of Italian as L2, illiterated or low-educated adult immigrants.
 
@@ -16,34 +17,27 @@ identifies 4 profiles/stages for adults with low skills in Italian L2:
 + PreA1(weakly literate)
 + A1(literate)
 
-
  
 # Glosses list
 The list of words contained in the glossary has been extracted from the syllable of reference for weakly or not at all schooled adult learners cited before
-
 Specifically, the words of the domains have been extracted:
 
-"La mia vita in Italia: le cose che compro" (My life in Italy: the things I buy)
-"Io e il lavoro" (Me and the Job)
+- "La mia vita in Italia: le cose che compro" (My life in Italy: the things I buy)
+- "Io e il lavoro" (Me and the Job)
 
 You can view the list of words within the Tables:
 
-TSB3.4
-TSB3.5
+- TSB3.4
+- TSB3.5
 
 of the reference syllable
-
 The tables enclose the high-frequency words used by <A1/A1 level learners
-
-The words are organized in the tables according to the 4 profiles /stages provided by the syllable
-
+The words are organized in the tables according to the 4 profiles/stages provided by the syllable
 
 
 # Data structure
 The glossary is a .JSON file where each NAME corresponds to a gloss and each gloss's VALUE is an object itself.
-
 Every value has the same properties, that correspond to the gloss metadata.
-
 Here an example for the gloss "casalinga"
 
   "casalinga": {
@@ -82,21 +76,36 @@ Here you can find a brief description for each property:
   
   
 # Notes
-The glossary has been designed and implemented as an integrated resource in the CPIAbot chatbot.
-Within the system, the glossary has a dual function:
 
-multimedia resource that can be consulted by illiterate/weakly literate students
-database for exercises and dialogues contained in CPIAbot
+Glossary
+------------
+The glossary has been designed and implemented as an integrated resource in the CPIAbot chatbot. 
+The chatbot is currently the subject of a PhD thesis in Digital Humanities, as part of a collaboration between the Institute of Educational Technologies (ITD-Genoa) and the University of Genoa.
+
+Within CPIAbot, the glossary has a dual function:
+
+- Multimedia resource that can be consulted by illiterate/weakly literate students (within their formal and informal learning)
+- Database for exercises and dialogues contained in CPIAbot
 
 The original objective of the glossary, therefore, was to build a support resource for the teaching of Italian L2 focused on:
 
-Learning units oriented to target words
-Expansion of lexical knowledge (also in relation to its relationship with the learning of reading and writing)
-Use of textual and para-textual elements
-Use of materials anchored to the student's personal experience
+- Learning units oriented to target words
+- Expansion of lexical knowledge (also in relation to its relationship with the learning of reading and writing)
+- Use of textual and para-textual elements
+- Use of materials anchored to the student's personal experience
 
 The data base shared here, therefore, is an integral part of the experimental attempt to build interactive (and conversational) tools to support L2 literacy courses for adults with little or no schooling.
 
+Simplified definitions
+----------------------
+The simplified definitions in the glossary ("text" property) have been implemented in two ways:
+
+- The teachers involved in the experiment provided simplified definitions for some glosses (marked with the property "simplified: true").
+- Based on the structure of the definitions provided by the teachers, the glossary contributors completed the missing glosses (marked with the property "simplified: false").
+
+Videos, gifs and images
+-----------------------
+Due to possible copyright restrictions of the resources, there are references to non-publishable images and videos within the data structure provided here.
 
 
 # CPIAbot official page
@@ -104,7 +113,6 @@ https://www.itd.cnr.it/Progetti_Rispo1.php?PROGETTO=1193
 
 
 # Academic papers 
-
 Torsani S., Robino G., Ravicchio F. (2021). A conversational agent to learn Italian as a Second Language. Invited chapter for the book “CPIAbot: a conversational assistant for learning Italian as second language”, Trentin G. (ed), Nova Science Publishers,  2021.
 
 Ravicchio F., Robino R., Torsani S. (2020). Un assistente conversazionale a supporto dell’apprendimento dell’italiano L2 per migranti: CPIAbot. Italian Journal of Educational Technology (IJET).
