@@ -1,4 +1,7 @@
 # cpiabotData
+PROJECT DISCONTINUED: The glossary provided here, which is an integral part of the CPIAbot chatbot, has been used as an experimental resource within a project of the Institute for Educational Technologies (ITD-CNR), which is currently concluded, and a doctoral thesis currently being written.
+
+# The resource
 The CPIAbot glossary is a collection of simplified terms and definitions of high-frequency words that can be consulted through the CPIAbot chatbot.
 The idea of developing a simplified interactive glossary, aimed at learners with poor language skills in Italian, stems from the lack of similar resources open-source or available online free of charge.
 
