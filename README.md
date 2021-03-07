@@ -40,6 +40,8 @@ The glossary is a .JSON file where each NAME corresponds to a gloss and each glo
 Every value has the same properties, that correspond to the gloss metadata.
 Here an example for the gloss "casalinga"
 
+```javascript
+
   "casalinga": {
     category: lavoro,
     text: Donna. Lavora solo in casa,
@@ -59,6 +61,9 @@ Here an example for the gloss "casalinga"
     simplified: false,
     level: Pre-A1
   },
+```
+  
+  
   
 Here you can find a brief description for each property:
   
