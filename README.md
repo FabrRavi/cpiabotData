@@ -115,6 +115,9 @@ Videos, gifs and images
 -----------------------
 Due to possible copyright restrictions of the resources, there are references to non-publishable images and videos within the data structure provided here.
 
+# Licence
+[MIT](https://github.com/FabrRavi/cpiabotData/blob/main/LICENCE.md#licence)
+
 
 # CPIAbot official page
 https://www.itd.cnr.it/Progetti_Rispo1.php?PROGETTO=1193
