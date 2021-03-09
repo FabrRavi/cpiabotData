@@ -116,7 +116,7 @@ Videos, gifs and images
 Due to possible copyright restrictions of the resources, there are references to non-publishable images and videos within the data structure provided here.
 
 # Licence
-[MIT](https://github.com/FabrRavi/cpiabotData/blob/main/LICENCE.md#licence)
+[MIT](https://github.com/FabrRavi/cpiabotData/blob/main/LICENCE.md#licence) (c) Luca Bernava, Fabrizio Ravicchio, Giorgio Robino, Simone Torsani, Guglielmo Trentin
 
 
 # CPIAbot official page
