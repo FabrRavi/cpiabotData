@@ -137,6 +137,10 @@ Ravicchio F., Robino G., Bernava L., Torsani S. (2019, September 21-25). Chatbot
 
 Robino, G. (2018, October 24) Conversational Paradigm. Much more than chatbots [ITD-CNR, internal talk]. Genoa, Italy. www.bit.ly/introforitd
   
+  
+# Contact
+For further information 
+edubots@itd.cnr.it
 
 
 
